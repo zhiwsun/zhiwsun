@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on OSS
+- 🌱 I’m currently learning C/C++, RTMP 
+
 <!--
 **zhiwsun/zhiwsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
