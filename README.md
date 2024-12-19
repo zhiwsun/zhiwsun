@@ -1,7 +1,6 @@
-### Hi there 👋
+## 👋 Hi there
 
-- 🔭 I’m currently working on OSS (Object Storage Service)
-- 🌱 I’m currently learning C/C++, Python, RTMP and DICOM
+- 🔭 I’m currently learning and working on NLP / LLM / RAG.
 
 <!--
 **zhiwsun/zhiwsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
